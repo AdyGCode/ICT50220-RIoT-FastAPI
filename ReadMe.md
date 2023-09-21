@@ -2,17 +2,11 @@
 
 - TODO: Add a one sentence overview of the project
 
-### Badges
-
-TODO: Add badges as needed - look at https://shields.io to help
-
 ![FastAPI: A Tutorial](https://img.shields.io/badge/FastAPI-A_Tutorial-cc3333?style=for-the-badge)
 
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/adygcode/ICT50220-RIoT-FastAPI?style=for-the-badge&color=4488cc)
 ![GitHub issues](https://img.shields.io/github/issues-raw/adygcode/ICT50220-RIoT-FastAPI?style=for-the-badge)
-![]()
 ![GitHub language count](https://img.shields.io/github/languages/count/adygcode/ICT50220-RIoT-FastAPI?style=for-the-badge)
-
 
 
 ## About
@@ -55,3 +49,11 @@ The tutorial content is found in the [documentation](docs) folder, and starts wi
 ## License
 
 - TODO: Add a license.
+
+
+## Other notes
+Any other items that are not part of the main ReadMe workflow.
+
+
+### Badges
+More on badges? Look at https://shields.io for help.
